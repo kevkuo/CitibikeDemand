@@ -11,3 +11,7 @@ March 2015 - May 2016: https://drive.google.com/drive/u/1/folders/0B5bVaQ5pgJ-ra
 
 ## Bike Trip Data:
 https://s3.amazonaws.com/tripdata/index.html
+
+## Central Park 2017 Weather Data:
+Data: https://gist.githubusercontent.com/kevkuo/73ab0b6347ba3e806899b427ac3e490c/raw/0f657f8f5d97736ba30b4571fe09bd627cc8f6a3/centralParkWeather2017
+Documentation: https://www1.ncdc.noaa.gov/pub/data/cdo/documentation/GHCND_documentation.pdf
